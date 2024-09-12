@@ -1,6 +1,6 @@
 {
   "vaultName": "Wiki",
-  "lastExport": 1726097493711,
+  "lastExport": 1726100430689,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-ribbon",
   "useCustomHeadContent": false,
@@ -10,6 +10,7 @@
     "Data/Images/Crypt.png",
     "Data/Images/fear.png",
     "Data/Images/forgotten.png",
+    "Data/Images/guide1.png",
     "Data/Images/mortal.png",
     "Data/Images/zap.png",
     "Main/Components/Butterfly.md",
@@ -20,6 +21,7 @@
     "Main/Library/Contents/Realms/Mortal.md",
     "Main/Library/Contents/Oqzireth.md",
     "Index.md",
+    "lib/media/guide1.png",
     "lib/media/fear.png",
     "lib/media/forgotten.png",
     "lib/media/mortal.png",
@@ -76,145 +78,145 @@
   ],
   "fileInfo": {
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1726097493711,
-      "sourceSize": 24260,
+      "modifiedTime": 1726100430689,
+      "sourceSize": 24610,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 2953,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 130471,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 51705,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 745,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1726097493711,
-      "sourceSize": 3075,
+      "modifiedTime": 1726100430689,
+      "sourceSize": 3726,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -262,37 +264,39 @@
       "dependencies": []
     },
     "Index.md": {
-      "modifiedTime": 1726097493711,
-      "sourceSize": 1329,
+      "modifiedTime": 1726100430689,
+      "sourceSize": 1343,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "Data/Images/cloud.png": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 3387,
       "exportedPath": "data/images/cloud.png",
       "dependencies": []
     },
     "Main/Components/Butterfly.md": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 912,
       "exportedPath": "main/components/butterfly.html",
       "dependencies": []
     },
     "Main/Components/Contact.md": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 133,
       "exportedPath": "main/components/contact.html",
       "dependencies": []
     },
     "Main/Components/Guide.md": {
-      "modifiedTime": 1726097493711,
-      "sourceSize": 65,
+      "modifiedTime": 1726100430689,
+      "sourceSize": 1182,
       "exportedPath": "main/components/guide.html",
-      "dependencies": []
+      "dependencies": [
+        "lib/media/guide1.png"
+      ]
     },
     "Main/Library/Contents/Realms/Mortal.md": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 557,
       "exportedPath": "main/library/contents/realms/mortal.html",
       "dependencies": [
@@ -300,13 +304,13 @@
       ]
     },
     "Main/Library/Contents/Oqzireth.md": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 424,
       "exportedPath": "main/library/contents/oqzireth.html",
       "dependencies": []
     },
     "Main/Library/Contents/Realms/Forgotten.md": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 640,
       "exportedPath": "main/library/contents/realms/forgotten.html",
       "dependencies": [
@@ -314,37 +318,37 @@
       ]
     },
     "Data/Images/Crypt.png": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 2953,
       "exportedPath": "data/images/crypt.png",
       "dependencies": []
     },
     "Data/Images/forgotten.png": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 2726,
       "exportedPath": "data/images/forgotten.png",
       "dependencies": []
     },
     "lib/media/forgotten.png": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 2726,
       "exportedPath": "lib/media/forgotten.png",
       "dependencies": []
     },
     "Data/Images/fear.png": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 3507,
       "exportedPath": "data/images/fear.png",
       "dependencies": []
     },
     "Data/Images/mortal.png": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 2764,
       "exportedPath": "data/images/mortal.png",
       "dependencies": []
     },
     "Main/Library/Contents/Realms/Fear.md": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 412,
       "exportedPath": "main/library/contents/realms/fear.html",
       "dependencies": [
@@ -352,21 +356,33 @@
       ]
     },
     "lib/media/fear.png": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 3507,
       "exportedPath": "lib/media/fear.png",
       "dependencies": []
     },
     "lib/media/mortal.png": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 2764,
       "exportedPath": "lib/media/mortal.png",
       "dependencies": []
     },
     "Data/Images/zap.png": {
-      "modifiedTime": 1726097493711,
+      "modifiedTime": 1726100430689,
       "sourceSize": 3733,
       "exportedPath": "data/images/zap.png",
+      "dependencies": []
+    },
+    "Data/Images/guide1.png": {
+      "modifiedTime": 1726100430689,
+      "sourceSize": 41965,
+      "exportedPath": "data/images/guide1.png",
+      "dependencies": []
+    },
+    "lib/media/guide1.png": {
+      "modifiedTime": 1726100430689,
+      "sourceSize": 41965,
+      "exportedPath": "lib/media/guide1.png",
       "dependencies": []
     }
   }
